@@ -20,4 +20,9 @@ git commit -m '메시지' : 커밋메시지 남기기
 
 5. git reset 
 git reset --soft : 내역을 되돌리고 commit만 취소(staging상태)
-git reset --mixed
+git reset --mixed : 내역을 되돌리고 staging도 취소(default)
+git reset --hard : 해당 commit 지점으로 파일을 되돌린다.
+	reset을 하면
+
+6. git revert 
+	git revert : 파일을 해당 commit 지점으로 되돌리고 log를 남긴다. 
