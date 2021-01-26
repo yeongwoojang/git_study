@@ -1,4 +1,4 @@
-사용자 B가 작성한 파일입니다2.
+사용자 A와 B가 작성한 파일입니다.
 git config --global user.name '사용자이름'
 git config --global user.email '이메일'
 git init
