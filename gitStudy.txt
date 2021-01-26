@@ -1,0 +1,5 @@
+git config --global user.name '사용자이름'
+git config --global user.email '이메일'
+git init
+git checkout -b main : main브랜치를 만들어서 해당 브랜치로 이동
+git status : 현재 상태확인 
