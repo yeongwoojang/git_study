@@ -26,3 +26,6 @@ git reset --hard : 해당 commit 지점으로 파일을 되돌린다.
 
 6. git revert 
 	git revert : 파일을 해당 commit 지점으로 되돌리고 log를 남긴다. 
+
+
+뭐야 왜안돼
