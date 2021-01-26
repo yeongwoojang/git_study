@@ -1,4 +1,4 @@
-사용자 B가 작성한 파일입니다.
+사용자 B가 작성한 파일입니다2.
 git config --global user.name '사용자이름'
 git config --global user.email '이메일'
 git init
@@ -30,3 +30,4 @@ git reset --hard : 해당 commit 지점으로 파일을 되돌린다.
 
 
 뭐야 왜안돼
+변경
