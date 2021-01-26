@@ -11,3 +11,9 @@ git commit -m '메시지' : 커밋메시지 남기기
 	git commit -m '[A] 처음으로 git commit 한 날'
 
 	git log : log 확인
+
+4. 파일을 수정하고 add, commit 해복
+	git add .: 수정내역이 잇는 모든 파일을 staging area에 추가
+	git commit : commit 메세지를 자세히 적어야 한가면 -m 옵션을 제외하고 commit을 진행
+	text 에디터가 나오면 i를 눌러서 입력 모드로 전환하고 메세지를 구체적으로 작성,
+	작성이 끝나면 esc : wq(저장하고 나가기) 를 입력해 commit을 완료
